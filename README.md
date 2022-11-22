@@ -18,7 +18,3 @@
   <img aling="center" alt="MongDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img aling="center" alt="MongDB" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
-
-
-
-Apaixonado por tecnologia, entusiasta 
