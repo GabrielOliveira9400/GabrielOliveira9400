@@ -6,7 +6,7 @@
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielOliveira9400&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/GabrielOliveira9400/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/GabrielOliveira9400/github-readme-stats)
 <br>
 ### Tecnologias que uso no meu dia
 
